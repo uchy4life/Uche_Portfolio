@@ -1,2 +1,2 @@
-# Uche's_Portfolio
+# Uche_Portfolio
 Analytics Portfolio
