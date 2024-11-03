@@ -9,6 +9,9 @@ The project is to provide strategic recommendations to support a company. They a
 
 ### Tools 
 - Python (Data cleaning and EDA)
+### Findings
+- There is an increase in purchases in December and a break in late December.
+- The increase in sales occured in the lead up to christmas and zero sales on christmas day
 ### Recommendation
 ---
 ## Project 2. Sales Analysis
