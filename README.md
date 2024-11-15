@@ -69,5 +69,5 @@ I also tried to find out if our target segment( Mainstream Young Singles/Couples
 - Notably, Mainstream young singles and couples are 23% more likely to buy Tyrrells chips compared to other population segments.
 -  To boost category performance, the company could consider positioning Tyrrells and smaller chip packs in high-traffic, discretionary spaces where young singles and couples are more likely to shop. This strategy would increase visibility and encourage impulse purchases.
 - By understanding the unique preferences of each segment, the company can better tailor its product placement and promotional efforts to boost overall category performance.
-### Data Sources
+
 
