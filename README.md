@@ -10,15 +10,15 @@ Date Formatting: Converting date columns to a consistent date format to enable c
 Outlier Removal: Identifying and removing any transactions with extreme quantities (such as those exceeding 200 units) to prevent data skewing.
 There were no missing data 
 ### Exploratory Data Analysis (EDA)
-- I visualize and summarize sales trends over time, revealing a noticeable increase in chip purchases leading up to Christmas, followed by a drop on Christmas Day (due to store closures). This seasonal insight is valuable for understanding peak sales periods and planning stock or promotions.
+- Visualized and summarized sales trends over time, revealing a noticeable increase in chip purchases leading up to christmas, followed by a drop on christmas day (due to store closures). This seasonal insight is valuable for understanding peak sales periods and planning stock or promotions.
 ![alt text](https://github.com/uchy4life/Uche_Portfolio/blob/main/Unknown.png)     ![alt text](https://github.com/uchy4life/Uche_Portfolio/blob/main/Unknown)
 
 ### Feature Engineering
-To enhance the dataset, I create two new features:
+To enhance the dataset,two new features were created:
 Pack Size: Extracting the chip pack size from product names.
 Brand: Parsing product names to create a brand column, then standardizing brand names for consistency.
 ### Customer Segment Analysis
-With the data prepped, I merge the customer and transaction datasets, allowing for segmentation analysis by customer life stage and spending category. 
+With the data prepped,the customer and transaction datasets was merged, allowing for segmentation analysis by customer life stage and spending category. 
 
 ![alt text](https://github.com/uchy4life/Uche_Portfolio/blob/main/Unknown-2)
 
@@ -50,7 +50,7 @@ In this analysis, brand affinity is calculated by comparing the proportion of a 
 - Mainstream young singles/couples are 23% more likely to purchase Tyrrells chips compared to the rest of the population.
 - Mainstream youngsingles/couples are 56% less likely to purchase Burger compared to the rest of the population
 
-I also tried to find out if our target segment( Mainstream Young Singles/Couples) tends to buy larger packs of chips.
+The project also tried to find out if our target segment( Mainstream Young Singles/Couples) tends to buy larger packs of chips.
 (add result of affinity to pack)
 
 - A preference for 270g packs, with Twisties being a popular brand in this size.
