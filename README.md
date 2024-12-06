@@ -4,7 +4,7 @@
 This project involves a comprehensive analysis of chip sales data, using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data manipulation and visualization. The purpose is to uncover customer insights based on transactional data, identify significant purchasing patterns, and propose targeted marketing strategies.
 ### Data Import and Preparation
 
-Two datasets: customer data and transaction data were imported into Jupyter notebook. After loading and exploring these datasets, I perform essential data cleaning steps:
+Two datasets: customer data and transaction data were imported into Jupyter notebook. After loading and exploring these datasets, essential data cleaning steps performed:
 
 Date Formatting: Converting date columns to a consistent date format to enable chronological analysis.
 Outlier Removal: Identifying and removing any transactions with extreme quantities (such as those exceeding 200 units) to prevent data skewing.
