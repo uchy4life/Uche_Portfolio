@@ -1,4 +1,4 @@
-# Uche_Portfolio
+
 ## Project 1. Sales Analysis
 ### Project Overview
 This project involves a comprehensive analysis of chip sales data, using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data manipulation and visualization. The purpose is to uncover customer insights based on transactional data, identify significant purchasing patterns, and propose targeted marketing strategies.
